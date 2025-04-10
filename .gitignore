@@ -1,0 +1,24 @@
+# Unity-specific ignores
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
